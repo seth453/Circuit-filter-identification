@@ -4,7 +4,7 @@ Electrical engineering laboratory projects focused on identifying and characteri
 
 # Overview
 
-This project examined circuit impedance and frequency response across a range of frequencies to identify different types of filter circuits.
+Examined circuit impedance and frequency response across a range of frequencies to identify different types of filter circuits.
 
 The analysis was performed using both LTspice simulation and physical hardware measurements.
 
