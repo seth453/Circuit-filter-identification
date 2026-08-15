@@ -12,11 +12,11 @@ Comparing simulated and measured behavior provided a practical look at how real 
 
 # Methods
 
-#Simulation
+## Simulation
 
 LTspice was used to analyze circuit behavior across different frequencies and examine the resulting response.
 
-# Hardware Analysis
+## Hardware Analysis
 
 Physical circuit measurements were collected across a range of frequencies and compared against the simulated results.
 
