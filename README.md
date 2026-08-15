@@ -1,6 +1,6 @@
-# Circuit Filter Identification
+# ECE Circuit labs
 
-An electrical engineering laboratory project focused on identifying and characterizing filter circuits through simulation and physical measurements.
+Electrical engineering laboratory projects focused on identifying and characterizing filter circuits through simulation and physical measurements.
 
 # Overview
 
@@ -14,11 +14,19 @@ Comparing simulated and measured behavior provided a practical look at how real 
 
 ## Simulation
 
+#
+![Project Screenshot](LT.PNG)
+#
+
 LTspice was used to analyze circuit behavior across different frequencies and examine the resulting response.
 
 ## Hardware Analysis
 
 Physical circuit measurements were collected across a range of frequencies and compared against the simulated results.
+
+#
+![Project Screenshot](bboard.PNG)
+#
 
 # Concepts Demonstrated
 
